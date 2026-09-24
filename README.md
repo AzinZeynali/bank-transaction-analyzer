@@ -1,6 +1,6 @@
 # Bank Transaction Analyzer
 
-A desktop GUI tool (Python + Tkinter) for analyzing bank transaction Excel exports — filter by date and document number, and flag documents with mismatched action codes.
+A desktop GUI tool (Python + Tkinter) for analyzing bank transaction Excel exports, filter by date and document number, and flag documents with mismatched action codes.
 
 ## Features
 - Load an Excel file (.xlsx/.xls) exported from a bank system
