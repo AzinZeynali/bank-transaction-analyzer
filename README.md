@@ -16,6 +16,7 @@ A desktop GUI tool (Python + Tkinter) for analyzing bank transaction Excel expor
 ## How to Run
 
 pip install -r requirements.txt
+
 python bank_analyzer.py
 
 
